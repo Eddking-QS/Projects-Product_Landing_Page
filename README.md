@@ -8,7 +8,7 @@ This project is a landing page for the Samsung Galaxy Watch. This is one of the 
 
 ## Live Demo
 
-View the full web page here: [Product Landing Page](https://quintin-dev.github.io/Projects-Product_Landing_Page/)
+View the full web page here: [Product Landing Page](https://quintincodes.github.io/Projects-Product_Landing_Page/)
 
 ![Product Landing Page](Assets/preview.png)
 
